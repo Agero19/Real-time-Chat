@@ -10,4 +10,3 @@
 
 - React — Popular component-based JS DOM rendering framework for building scalable web applications.
 
-:information_source: **Information:**  This tutorial was written by __Chris Nwamba__ and originally appeared on the [Pusher Blog](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs/).
